@@ -1,5 +1,5 @@
-###ExperiêncIA
-##📒 Descrição
+###ExperiêncIA###
+📒 Descrição
 Este projeto explora a similaridade entre a atuação das IAs generativas e a atuação humana, destacando os ganhos da automatização de processos através dessas tecnologias. O objetivo é demonstrar como as IAs podem ser utilizadas para otimizar tarefas, economizar tempo e melhorar a eficiência em diversas áreas.
 
 ##🤖 Tecnologias Utilizadas
